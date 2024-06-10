@@ -12,3 +12,6 @@ I learned how to use ArcGis to design a map of Massachusetts using dot symbology
 
 https://github.com/leanne-tran89/GIS_portfolio/assets/115663530/4ab923a5-373c-4bfa-9485-fded28abb6d0
 
+
+
+![Spilhaus_Layout_LeanneTran](https://github.com/leanne-tran89/GIS_portfolio/assets/115663530/eea1a990-d108-447d-93e6-99663794004e)
