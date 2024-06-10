@@ -1,4 +1,8 @@
 # GIS_portfolio
-This portfolio contains a progression of my work in cartography using Esri ArcGIS.
+This portfolio contains projects I completed in cartography using Esri ArcGIS.
+
 ![image](https://github.com/leanne-tran89/GIS_portfolio/assets/115663530/64323a78-238e-4c32-83ca-3a13eca62cb9)
 
+
+
+![-990349529](https://github.com/leanne-tran89/GIS_portfolio/assets/115663530/bb89cf5e-ac85-4187-8f85-41f577cdbdaf)
